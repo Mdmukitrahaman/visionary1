@@ -1,0 +1,38 @@
+#navbar,
+.navbar-nav,
+.nav-item,
+.nav-link{
+  padding: 0px 15px;
+  font-weight: 600;
+  color: black;
+
+  &:hover{
+    color: #007A56;
+  }
+
+  &.active{
+    color: #007A56;
+  }
+}
+#navbar.btn{
+  padding: 0px 10px
+}
+#main{
+  background: #F8F4F0;
+}
+#logo{
+  background: #F8F4F0;
+}
+#footer{
+  background: #0A1D32;
+}
+#footer p{
+  color: #fff;
+}
+#footer h5{
+  color: #fff;
+}
+#footer i{
+  color: #fff;
+  padding: 0px 5px;
+}
